@@ -13,3 +13,6 @@ fs.readdir(path.join(__dirname, 'data'), function (err, files) {
         })
     }
 })
+
+
+console.log();
